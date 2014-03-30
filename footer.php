@@ -1,6 +1,4 @@
-		<!-- sharing icons on landing -->
-		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-		<script type="text/javascript">stLight.options({publisher: "42098b92-210d-4eb8-9650-3490a6aaa451", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+		<!-- twitter tweet button -->
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
